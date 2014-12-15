@@ -84,7 +84,7 @@ def walk(direction)
 	elsif direction == :south
 		p 'Je marche vers le sud'
 	else
-		p 'Je vous emmerde'
+		p 'Je marche ailleurs'
 	end
 end
 
